@@ -1,0 +1,15 @@
+.idea
+.vscode
+
+.bsp/
+project/project/target/
+project/target/
+*.class
+project/metals.sbt
+target/
+output/
+.bloop/
+.metals/
+
+*.log
+NOTES.org
